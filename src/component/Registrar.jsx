@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Registrar = () => {
-  return (
+    return (
     <body>
     <div>
     <div className=" m-0 row justify-content-center aling-items-center border-3 ">

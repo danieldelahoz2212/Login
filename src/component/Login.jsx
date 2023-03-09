@@ -4,7 +4,7 @@ const login = () => {
     return (
     <body>
         <div>
-        <div className=" m-0 row justify-content-center aling-items-center border-3 ">
+        <div className="m-0 row justify-content-center aling-items-center border-3">
             <div className="col-auto p-5">
             <form className="border p-5 form-control login formulario">
                 <div className="form-group">
