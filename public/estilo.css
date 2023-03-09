@@ -1,0 +1,22 @@
+body {
+    background-image: url(peakpx.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.login{
+    background: rgba(0, 2, 67, 0.666);
+    border-style: none;
+    transition: 0.5s ease-in;
+    outline: none;
+    box-shadow: none;
+    text-align: center;
+    margin-top: 50%;
+}
+.formulario {
+    padding: 20px;
+    box-shadow: 7px 13px 37px #000;
+}
+.palabras{
+    color: white;
+}
